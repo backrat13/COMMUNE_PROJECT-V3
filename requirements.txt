@@ -1,0 +1,7 @@
+numpy
+pandas
+loguru
+PyPDF2
+transformers
+torch
+requests
